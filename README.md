@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AIMS Global Website
 
-## Getting Started
+Production-ready website for **AIMS Global** – education consultancy in Butwal, Nepal helping students get admissions in Indian universities.
 
-First, run the development server:
+## Enquiry Management (Google Sheets)
+
+Contact forms write to your [Enquiry Management Sheet](https://docs.google.com/spreadsheets/d/1A3xFwN17ERu_eYhKl2jKPDTL9AAzK8zXFyLhpieXXWg/edit).
+
+1. Deploy `scripts/google-apps-script-enquiry.js` in the sheet (Extensions → Apps Script → Deploy as Web App)
+2. Add the Web App URL to `.env.local` as `GOOGLE_SHEETS_WEBHOOK`
+3. Ensure sheets named **Enquiries** and **Blog Queries** exist with the correct headers
+
+Submissions include: name, email, phone, course, university, city, message, source page, and auto-generated enquiry ID (`ENQ-2025-001`).
+
+## Quick Start
 
 ```bash
+cd aimsglobal
+npm install
+cp .env.local.example .env.local   # add RESEND_API_KEY for contact form emails
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Live Google Sheets Data
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+University and blog content is fetched **directly from your Google Sheets** — no manual CSV export needed. Edit the sheet and changes appear on the site within ~5 minutes (configurable).
 
-## Learn More
+### Sheet columns for images (SEO)
 
-To learn more about Next.js, take a look at the following resources:
+Add these columns to both sheets:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Column | Description | Example |
+|--------|-------------|---------|
+| `image` | Google Drive image URL (logo or featured image) | `https://drive.google.com/file/d/ABC123/view?usp=sharing` |
+| `img_alt` | Alt text for SEO & accessibility | `BMS College of Engineering Bangalore logo` |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Drive image tip:** Upload image → Share → "Anyone with the link" → paste the share URL in the `image` column.
 
-## Deploy on Vercel
+**Your sheets (must be "Anyone with the link can view"):**
+- Universities: [AIMS_Global_Universities](https://docs.google.com/spreadsheets/d/1ZprLoN1DLFzAUJndWm0DLCPWCo6WmXwCIsqWezeEi-M/edit)
+- Blog: [AIMS_Global_Blog_Posts](https://docs.google.com/spreadsheets/d/1e8cCwonGxlVySebx8h1JhwVj3reg-WnxGtglP7e0Jp4/edit)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Set `SHEETS_REVALIDATE_SECONDS=60` in `.env.local` for faster updates (1 minute).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Instant refresh** after editing a sheet:
+```bash
+curl -X POST "http://localhost:3000/api/revalidate?secret=YOUR_REVALIDATE_SECRET"
+```
+
+**Fallback:** If Google Sheets is unreachable, the site uses cached JSON in `src/data/*.json`. Run `npm run data:convert` to refresh those backups from CSV.
+
+## Pages
+
+| Route | Description |
+|-------|-------------|
+| `/` | Homepage with hero, featured universities, courses, testimonials |
+| `/universities` | Filterable university listing (29 colleges) |
+| `/universities/[slug]` | University detail with tabs |
+| `/courses` | Course listing derived from university data |
+| `/blog` | Blog listing (12 posts) |
+| `/blog/[slug]` | Individual blog post |
+| `/about` | About AIMS Global |
+| `/contact` | Contact form + map |
+
+## Deploy to Vercel
+
+1. Push to GitHub
+2. Import project in Vercel
+3. Set environment variables: `RESEND_API_KEY`, `NEXT_PUBLIC_SITE_URL`
+4. Deploy (region: Singapore `sin1` for Nepal/India latency)
+
+## Tech Stack
+
+Next.js 16 · TypeScript · Tailwind CSS · React Hook Form · Zod · Resend
+# aimsglobal

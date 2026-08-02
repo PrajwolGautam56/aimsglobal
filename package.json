@@ -6,12 +6,32 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "data:convert": "node scripts/csv-to-json.mjs",
+    "logos:download": "node scripts/download-university-logos.mjs",
+    "db:seed": "node scripts/seed-mongodb.mjs",
+    "media:publish": "node scripts/publish-blog-images.mjs",
+    "content:refocus": "node scripts/refocus-launch-content.mjs",
+    "fees:update": "node scripts/update-university-fees-2026.mjs"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.4.0",
+    "@radix-ui/react-dialog": "^1.1.16",
+    "@radix-ui/react-label": "^2.1.9",
+    "@radix-ui/react-select": "^2.3.0",
+    "@radix-ui/react-slot": "^1.2.5",
+    "@radix-ui/react-tabs": "^1.1.14",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.17.0",
+    "mongodb": "^7.5.0",
     "next": "16.2.7",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-hook-form": "^7.77.0",
+    "resend": "^6.12.4",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

@@ -1,0 +1,4166 @@
+[
+  {
+    "name": "SRM University",
+    "image": "/logos/srm-university-amaravati-andhra-pradesh.png",
+    "imgAlt": "SRM University logo",
+    "city": "Amaravati",
+    "state": "Andhra Pradesh",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 50 NIRF",
+    "popularCourses": [
+      "B.Tech CSE",
+      "Core Engineering",
+      "B.Sc",
+      "BA",
+      "B.Com",
+      "BBA",
+      "MBA"
+    ],
+    "annualFees": "₹10L–₹12L engineering package",
+    "highestPackage": "35 LPA",
+    "keyHighlights": "Global-standard Amaravati campus; supplied Nepal packages and SAARC scholarship figures; confirm the current scholarship letter",
+    "officialWebsite": "https://www.srmuniversity.ac.in/amaravati",
+    "slug": "srm-university-amaravati-andhra-pradesh",
+    "metaTitle": "SRM University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for SRM University with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "SRM University is located in Amaravati, Andhra Pradesh. SRM Group; new campus in AP capital region; UGC recognised",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 35 LPA",
+      "highestPackage": "35 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE & specialisations",
+        "duration": "4 years",
+        "annualFee": "₹12,00,000 AC hostel / ₹11,00,000 non-AC",
+        "feeBasis": "Nepal total package",
+        "inclusions": "Tuition + selected hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Core - Mechanical / Civil / ECE / EEE",
+        "duration": "4 years",
+        "annualFee": "₹11,00,000 AC hostel / ₹10,00,000 non-AC",
+        "feeBasis": "Nepal total package",
+        "inclusions": "Tuition + selected hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech CSE scholarship tuition",
+        "duration": "4 years",
+        "annualFee": "₹1,45,350–₹1,77,650/year",
+        "feeBasis": "Yearly tuition after stated scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Core scholarship tuition",
+        "duration": "4 years",
+        "annualFee": "₹1,36,850/year",
+        "feeBasis": "Yearly tuition after stated scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc / BA / B.Com",
+        "duration": "3–4 years",
+        "annualFee": "₹3,82,500/year",
+        "feeBasis": "Yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": "Figure supplied by partner sheet; confirm exact invoice"
+      },
+      {
+        "course": "BBA / MBA",
+        "duration": "3 / 2 years",
+        "annualFee": "₹5,99,250/year / ₹1,66,175/year",
+        "feeBasis": "Yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": "Figures supplied by partner sheet; confirm exact invoice"
+      }
+    ],
+    "feeBasis": "Nepal package or yearly tuition depending on row",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Sharda University",
+    "image": "/logos/sharda-university-greater-noida-delhi.png",
+    "imgAlt": "Sharda University logo",
+    "city": "Greater Noida",
+    "state": "Delhi NCR",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 100 NIRF",
+    "popularCourses": [
+      "B.Tech",
+      "BCA",
+      "MCA",
+      "B.Sc",
+      "BBA",
+      "B.Com",
+      "MBA",
+      "Media",
+      "Law",
+      "B.Sc Nursing",
+      "B.Pharm",
+      "Allied Health"
+    ],
+    "annualFees": "₹80K–₹4.75L first year",
+    "highestPackage": "30 LPA",
+    "keyHighlights": "Progressive annual tuition; 2026-27 official CSE starts at ₹2.95L; hostel and mandatory university charges are extra",
+    "officialWebsite": "https://www.sharda.ac.in",
+    "slug": "sharda-university-greater-noida-delhi",
+    "metaTitle": "Sharda University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Sharda University with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "Sharda University in Greater Noida uses a progressive annual tuition model, so later-year tuition rises from the first-year amount. The table shows starting first-year tuition unless stated otherwise.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 30 LPA",
+      "highestPackage": "30 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE",
+        "duration": "4 years",
+        "annualFee": "₹2,95,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech CSE specialisations - AI/ML, Data Science, Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹3,05,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech IT",
+        "duration": "4 years",
+        "annualFee": "₹2,00,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech EEE / ECE / Mechanical / Civil",
+        "duration": "4 years",
+        "annualFee": "₹1,40,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech EV / Semiconductor / Robotics",
+        "duration": "4 years",
+        "annualFee": "₹1,50,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Biotechnology / Food Technology",
+        "duration": "4 years",
+        "annualFee": "₹2,15,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA / B.Sc Computing",
+        "duration": "3 years",
+        "annualFee": "₹1,85,000 / ₹1,25,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MCA / M.Tech",
+        "duration": "2 years",
+        "annualFee": "₹1,95,000 / ₹1,13,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / B.Com",
+        "duration": "3 years",
+        "annualFee": "₹2,40,000 / ₹1,80,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹4,25,000–₹4,75,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BA Media / B.Sc Animation, VFX & Gaming",
+        "duration": "3 years",
+        "annualFee": "₹1,85,000 / ₹1,95,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA LLB / BA LLB",
+        "duration": "5 years",
+        "annualFee": "₹2,55,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹2,60,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Pharm / Allied Health B.Sc",
+        "duration": "4 years",
+        "annualFee": "₹2,30,000–₹2,50,000 / ₹1,50,000–₹2,10,000 first year",
+        "feeBasis": "Progressive yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "First-year tuition; progressive yearly model",
+    "feeSource": "AIMS partner sheet; Sharda official 2026-27 fee structure checked",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "Hostel is extra.",
+      "Official 2026-27 page lists a one-time ₹30,000 admission fee, ₹6,000 examination fee per semester and ₹15,000 annual registration from the second year.",
+      "Later-year tuition rises under the progressive fee model; use the official course schedule for the full degree total."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSourceUrl": "https://suat.sharda.ac.in/fee-structure/"
+  },
+  {
+    "name": "Amity University",
+    "image": "/logos/amity-university-india.png",
+    "imgAlt": "Amity University logo",
+    "city": "Noida / Multiple",
+    "state": "Delhi NCR & Multiple States",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 50 NIRF",
+    "popularCourses": [
+      "B.Tech",
+      "BBA",
+      "MBA",
+      "Law",
+      "Journalism",
+      "Design",
+      "Biotechnology"
+    ],
+    "annualFees": "₹2L–₹8L/year",
+    "highestPackage": "45 LPA",
+    "keyHighlights": "India's largest private university group; 20+ campuses; UGC recognised; strong brand",
+    "officialWebsite": "https://www.amity.edu",
+    "slug": "amity-university-india",
+    "metaTitle": "Amity University India – Admission 2025, Courses, Fees & Rankings",
+    "metaDescription": "Amity University is India's largest private university with campuses across India. Apply through AIMS Global Nepal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "Amity University is located in Noida / Multiple, Delhi NCR & Multiple States. India's largest private university group; 20+ campuses; UGC recognised; strong brand",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport copy",
+      "Passport-size photographs",
+      "Migration certificate",
+      "Character certificate",
+      "NEET scorecard (for medical courses)"
+    ],
+    "placements": {
+      "averagePackage": "Up to 45 LPA",
+      "highestPackage": "45 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "BBA",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "CAT/MAT"
+      },
+      {
+        "course": "Law",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "Journalism",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "Design",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "Biotechnology",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      }
+    ]
+  },
+  {
+    "name": "Parul University",
+    "image": "/logos/parul-university-vadodara-gujarat.svg",
+    "imgAlt": "Parul University logo",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 100 NIRF Overall",
+    "popularCourses": [
+      "B.Tech",
+      "Diploma Engineering",
+      "BBA",
+      "BCA",
+      "B.Com",
+      "MBA",
+      "MCA",
+      "M.Tech",
+      "B.Pharm",
+      "Pharm.D",
+      "GNM",
+      "B.Sc Nursing",
+      "BPT",
+      "Allied Health",
+      "Law",
+      "Design",
+      "Architecture"
+    ],
+    "annualFees": "₹1.65L–₹13L total after scholarship",
+    "highestPackage": "35 LPA",
+    "keyHighlights": "Partner figures reflect total tuition after a stated 50% SAARC scholarship; hostel extra",
+    "officialWebsite": "https://www.paruluniversity.ac.in",
+    "slug": "parul-university-vadodara-gujarat",
+    "metaTitle": "Parul University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Parul University with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "Parul University in Vadodara offers engineering, management, computing, pharmacy, nursing, allied health, law and design programs. Listed amounts reflect the supplied SAARC scholarship estimate.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 35 LPA",
+      "highestPackage": "35 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech / Diploma Engineering",
+        "duration": "4 / 3 years",
+        "annualFee": "₹4,00,000–₹4,40,000 / ₹1,65,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / BCA / B.Com",
+        "duration": "3 years",
+        "annualFee": "₹2,40,000–₹3,20,000 / ₹1,80,000–₹2,40,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA / MCA / M.Tech / M.Sc IT",
+        "duration": "2 years",
+        "annualFee": "₹2,00,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Pharm / B.Sc Nursing / BPT",
+        "duration": "4–4.5 years",
+        "annualFee": "₹4,40,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Pharm.D",
+        "duration": "6 years",
+        "annualFee": "₹13,00,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "GNM / Allied Health B.Sc",
+        "duration": "3 / 4 years",
+        "annualFee": "₹2,40,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "LLB / B.Des / B.Arch",
+        "duration": "3 / 4 / 5 years",
+        "annualFee": "₹2,10,000 / ₹4,40,000–₹5,40,000 / ₹6,75,000",
+        "feeBasis": "Total tuition after scholarship",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition after stated 50% SAARC scholarship",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "Hostel is extra.",
+      "Scholarship continuation and eligibility must be confirmed in the written offer."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "MM (Maharishi Markandeshwar) University",
+    "image": "/logos/maharishi-markandeshwar-mm-university-ambala.ico",
+    "imgAlt": "MM (Maharishi Markandeshwar) University logo",
+    "city": "Mullana, Ambala",
+    "state": "Haryana",
+    "type": "Deemed University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 100 NIRF",
+    "popularCourses": [
+      "B.Tech",
+      "BBA",
+      "BCA",
+      "B.Com",
+      "Hotel Management",
+      "B.Sc Nursing",
+      "Paramedical",
+      "B.Pharm",
+      "Pharm.D",
+      "GNM",
+      "Law",
+      "MBA",
+      "M.Tech",
+      "M.Pharm",
+      "MPT",
+      "M.Sc Nursing",
+      "MCA"
+    ],
+    "annualFees": "₹30K–₹75K incentive tuition total",
+    "highestPackage": "30 LPA",
+    "keyHighlights": "Supplied Nepal student course-duration incentive figures; hostel and other charges extra; written scholarship confirmation essential",
+    "officialWebsite": "https://mmumullana.org",
+    "slug": "maharishi-markandeshwar-mm-university-ambala",
+    "metaTitle": "MM (Maharishi Markandeshwar) University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for MM (Maharishi Markandeshwar) University with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "MM University in Mullana, Haryana offers engineering, management, computing, health sciences, pharmacy, nursing and law. The unusually low figures shown are supplied course-duration incentive tuition amounts for Nepali students and require written confirmation.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 30 LPA",
+      "highestPackage": "30 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE / AI / Biotechnology / Core",
+        "duration": "4 years",
+        "annualFee": "₹65,000–₹75,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / BCA / B.Com / Hotel Management",
+        "duration": "3–4 years",
+        "annualFee": "₹50,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing / Paramedical",
+        "duration": "3–4 years",
+        "annualFee": "₹50,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Pharm / Pharm.D / GNM",
+        "duration": "4 / 6 / 3 years",
+        "annualFee": "₹50,000 / ₹70,000 / ₹40,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Law integrated programs",
+        "duration": "5 years",
+        "annualFee": "₹50,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA / M.Tech / M.Pharm / MPT / M.Sc Nursing",
+        "duration": "2 years",
+        "annualFee": "₹50,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MCA",
+        "duration": "2 years",
+        "annualFee": "₹30,000",
+        "feeBasis": "Total incentive tuition",
+        "inclusions": "Tuition only; hostel extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Course-duration incentive; hostel extra",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "These incentive amounts are not a full cost of attendance. Hostel, food, examinations, registration and other charges may apply."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "Akash Group of Institutions",
+    "image": "/logos/akash-group-institutions-bangalore.webp",
+    "imgAlt": "Akash Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E.",
+      "BBA",
+      "BCA",
+      "B.Com",
+      "MBA",
+      "MCA",
+      "BPT",
+      "MPT",
+      "B.Pharm",
+      "B.Sc Nursing",
+      "Allied Health",
+      "Paramedical Diploma"
+    ],
+    "annualFees": "₹1.5L–₹8.25L course total",
+    "highestPackage": "—",
+    "keyHighlights": "On-campus teaching hospital; engineering, management, pharmacy, nursing, physiotherapy, allied health and paramedical programs",
+    "officialWebsite": "https://www.akashgroup.edu.in",
+    "slug": "akash-group-institutions-bangalore",
+    "metaTitle": "Akash Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Akash Group of Institutions with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "Akash Group of Institutions in Bangalore offers engineering and professional programs alongside health sciences supported by an on-campus teaching hospital.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "—",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE / AI & ML",
+        "duration": "4 years",
+        "annualFee": "₹8,25,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. AI & Data Science",
+        "duration": "4 years",
+        "annualFee": "₹7,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Cyber Security / Data Science",
+        "duration": "4 years",
+        "annualFee": "₹6,60,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ISE / ECE / Mechanical",
+        "duration": "4 years",
+        "annualFee": "₹5,50,000 / ₹5,50,000 / ₹3,45,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA Advanced / MCA Advanced",
+        "duration": "2 years",
+        "annualFee": "₹3,60,000 / ₹2,90,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA Advanced / BBA Aviation / BCA Advanced",
+        "duration": "3 years",
+        "annualFee": "₹3,55,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Com Advanced",
+        "duration": "3 years",
+        "annualFee": "₹2,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BPT / MPT",
+        "duration": "4.5 / 2 years",
+        "annualFee": "₹6,65,000 / ₹3,25,000–₹4,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Pharm / B.Pharm Lateral Entry",
+        "duration": "4 / 3 years",
+        "annualFee": "₹5,45,000 / ₹3,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": "Lateral: ₹1,75,000 in entry year, then ₹1,00,000 in each remaining year"
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹6,95,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Cardiac Care",
+        "duration": "4 years",
+        "annualFee": "₹7,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Anaesthesia & OT / Medical Imaging",
+        "duration": "4 years",
+        "annualFee": "₹5,15,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Perfusion / Neuroscience / Radiotherapy",
+        "duration": "4 years",
+        "annualFee": "₹4,45,000 / ₹4,25,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Emergency / Respiratory / MLT / Renal Dialysis / Optometry",
+        "duration": "4 years",
+        "annualFee": "₹2,95,000–₹3,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Paramedical diplomas",
+        "duration": "2–3 years",
+        "annualFee": "₹1,50,000–₹2,05,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Alliance University",
+    "image": "/logos/alliance-university-bangalore.webp",
+    "imgAlt": "Alliance University logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#71 Management, #20 Law (NIRF 2025)",
+    "popularCourses": [
+      "B.Tech",
+      "BCA",
+      "MCA",
+      "BBA",
+      "B.Com",
+      "MBA",
+      "Law",
+      "B.Des",
+      "Liberal Arts",
+      "B.Sc"
+    ],
+    "annualFees": "₹7.1L–₹17.2L total",
+    "highestPackage": "60.1 LPA",
+    "keyHighlights": "Private university in Bangalore; management, engineering, computing, law, design, liberal arts and sciences",
+    "officialWebsite": "https://www.alliance.edu.in",
+    "slug": "alliance-university-bangalore",
+    "metaTitle": "Alliance University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Alliance University with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "Alliance University is located in Bangalore, Karnataka. UGC recognised; QS World #274 South Asia 2026; 1000+ recruiters; 55-acre campus",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 60.1 LPA",
+      "highestPackage": "60.1 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE - all specialisations",
+        "duration": "4 years",
+        "annualFee": "₹17,20,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel package",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech IT / Aerospace",
+        "duration": "4 years",
+        "annualFee": "₹15,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Civil / ECE / Mechanical / EEE",
+        "duration": "4 years",
+        "annualFee": "₹12,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA / MCA",
+        "duration": "3 / 2 years",
+        "annualFee": "₹13,20,000 / ₹7,10,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / B.Com / MBA",
+        "duration": "3 / 3 / 2 years",
+        "annualFee": "₹14,20,000 / ₹12,20,000 / ₹12,10,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "LLB / B.Des",
+        "duration": "3 / 4 years",
+        "annualFee": "₹10,90,000 / ₹16,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Liberal Arts / B.Sc",
+        "duration": "3–4 years",
+        "annualFee": "₹15,20,000 / ₹12,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition; B.Tech CSE amount includes hostel package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "BGS & SJB Group of Institutions",
+    "image": "/logos/bgs-sjb-group-institutions-bangalore.webp",
+    "imgAlt": "BGS & SJB Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech",
+      "MBBS",
+      "BDS",
+      "BBA",
+      "B.Pharm",
+      "MBA",
+      "Nursing"
+    ],
+    "annualFees": "₹1L–₹8L/year",
+    "highestPackage": "25 LPA",
+    "keyHighlights": "VTU/RGUHS affiliated; multiple colleges including medical; Kengeri Bangalore; affordable",
+    "officialWebsite": "https://www.sjbgroup.org",
+    "slug": "bgs-sjb-group-institutions-bangalore",
+    "metaTitle": "BGS & SJB Group Bangalore – Medical, Engineering & Management Admission",
+    "metaDescription": "BGS & SJB Group Bangalore offers medical, engineering & management programs. Apply from Nepal via AIMS Global.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "BGS & SJB Group of Institutions is located in Bangalore, Karnataka. VTU/RGUHS affiliated; multiple colleges including medical; Kengeri Bangalore; affordable",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport copy",
+      "Passport-size photographs",
+      "Migration certificate",
+      "Character certificate",
+      "NEET scorecard (for medical courses)"
+    ],
+    "placements": {
+      "averagePackage": "Up to 25 LPA",
+      "highestPackage": "25 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech",
+        "duration": "4 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBBS",
+        "duration": "5.5 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "NEET"
+      },
+      {
+        "course": "BDS",
+        "duration": "4 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "BBA",
+        "duration": "4 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "B.Pharm",
+        "duration": "4 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "CAT/MAT"
+      },
+      {
+        "course": "Nursing",
+        "duration": "4 years",
+        "annualFee": "₹1L–₹8L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      }
+    ]
+  },
+  {
+    "name": "BMS College of Engineering (BMSCE)",
+    "image": "/logos/bms-college-engineering-bangalore.jpg",
+    "imgAlt": "BMS College of Engineering (BMSCE) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Autonomous Engineering College",
+    "naacGrade": "A++",
+    "nirfRanking": "#Ranked Top 100 NIRF Eng",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. CSE Specialisations",
+      "B.E. Biotechnology",
+      "B.E. ECE",
+      "B.E. EEE",
+      "B.E. Mechanical",
+      "B.E. Civil"
+    ],
+    "annualFees": "₹10L–₹22L total package",
+    "highestPackage": "44 LPA",
+    "keyHighlights": "Established 1946; among India's earliest private engineering colleges; NAAC A++; hostel and food included in listed partner packages",
+    "officialWebsite": "https://www.bmsce.ac.in",
+    "slug": "bms-college-engineering-bangalore",
+    "metaTitle": "BMS College of Engineering (BMSCE) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for BMS College of Engineering (BMSCE) with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "1946",
+    "topCourse": "B.E. CSE",
+    "overview": "BMS College of Engineering is an autonomous engineering institution in Bangalore established in 1946. The listed four-year partner packages include hostel and vegetarian/non-vegetarian food.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 44 LPA",
+      "highestPackage": "44 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. Civil / Mechanical / EEE / ECE / Chemical",
+        "duration": "4 years",
+        "annualFee": "₹10,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Biotechnology",
+        "duration": "4 years",
+        "annualFee": "₹12,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Computer Science & Engineering",
+        "duration": "4 years",
+        "annualFee": "₹22,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. CSE specialisations: AI/ML, Business Systems, AI & DS, IoT/Cyber, Data Science",
+        "duration": "4 years",
+        "annualFee": "₹14,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total 4-year package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "BMS Institute of Technology & Management (BMSIT&M)",
+    "image": "/logos/bms-institute-technology-management-bangalore.png",
+    "imgAlt": "BMS Institute of Technology & Management (BMSIT) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Autonomous Engineering Institute under VTU",
+    "naacGrade": "A",
+    "nirfRanking": "#Top 200 NIRF Eng",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. AI & ML",
+      "B.E. ECE",
+      "B.E. EEE",
+      "B.E. Mechanical",
+      "B.E. Civil"
+    ],
+    "annualFees": "₹8L–₹14L total package",
+    "highestPackage": "22 LPA",
+    "keyHighlights": "Autonomous institute under VTU; NAAC A; package includes hostel and vegetarian/non-vegetarian food",
+    "officialWebsite": "https://www.bmsit.ac.in",
+    "slug": "bms-institute-technology-management-bangalore",
+    "metaTitle": "BMS Institute of Technology & Management (BMSIT&M) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for BMS Institute of Technology & Management (BMSIT&M) with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "2002",
+    "topCourse": "B.E. CSE",
+    "overview": "BMSIT&M is an autonomous engineering institute under Visvesvaraya Technological University in Bangalore. The listed partner packages cover four years and include hostel and food.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 22 LPA",
+      "highestPackage": "22 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. Civil / Mechanical / EEE / ECE",
+        "duration": "4 years",
+        "annualFee": "₹8,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Computer Science & Engineering",
+        "duration": "4 years",
+        "annualFee": "₹14,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Artificial Intelligence & Machine Learning",
+        "duration": "4 years",
+        "annualFee": "₹12,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + veg/non-veg food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total 4-year package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Cambridge Institute of Technology (CIT)",
+    "image": "/logos/cambridge-institute-technology-bangalore.png",
+    "imgAlt": "Cambridge Institute of Technology (CIT) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. AI & ML",
+      "B.E. Data Science",
+      "B.E. IoT & Cyber Security",
+      "B.E. ECE",
+      "B.E. Mechanical",
+      "B.E. Civil",
+      "B.E. EEE"
+    ],
+    "annualFees": "₹7L–₹10.5L total package",
+    "highestPackage": "18 LPA",
+    "keyHighlights": "VTU affiliated; listed package includes 3/4-sharing hostel and Wi-Fi; subtract ₹50,000 per year when hostel is not required",
+    "officialWebsite": "https://www.citblr.ac.in",
+    "slug": "cambridge-institute-technology-bangalore",
+    "metaTitle": "Cambridge Institute of Technology (CIT) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Cambridge Institute of Technology (CIT) with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "Cambridge Institute of Technology is a VTU-affiliated engineering college in Bangalore. The listed four-year packages include shared hostel accommodation and Wi-Fi.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 18 LPA",
+      "highestPackage": "18 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE",
+        "duration": "4 years",
+        "annualFee": "₹10,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3/4-sharing hostel + Wi-Fi",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. AI & ML / IoT & Cyber Security / Data Science",
+        "duration": "4 years",
+        "annualFee": "₹9,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3/4-sharing hostel + Wi-Fi",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ECE / Mechanical / Civil / EEE",
+        "duration": "4 years",
+        "annualFee": "₹7,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3/4-sharing hostel + Wi-Fi",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total 4-year package",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "If hostel is not required, deduct ₹50,000 per year from the listed package."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "CMR Institute of Technology (CMRIT)",
+    "image": "/logos/cmr-institute-technology-cmrit-bangalore.jpeg",
+    "imgAlt": "CMR Institute of Technology (CMRIT) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private Engineering College",
+    "naacGrade": "A+",
+    "nirfRanking": "#101-150 NIRF Eng 2024",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. CSE Specialisations",
+      "B.E. ECE",
+      "B.E. Core"
+    ],
+    "annualFees": "₹11L–₹14L B.E. total",
+    "highestPackage": "45 LPA",
+    "keyHighlights": "VTU affiliated; NAAC A+; strong CSE placements; Hebbal Bangalore location",
+    "officialWebsite": "https://cmrit.ac.in",
+    "slug": "cmr-institute-technology-cmrit-bangalore",
+    "metaTitle": "CMR Institute of Technology (CMRIT) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for CMR Institute of Technology (CMRIT) with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "CMR Institute of Technology (CMRIT) is located in Bangalore, Karnataka. VTU affiliated; NAAC A+; strong CSE placements; Hebbal Bangalore location",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 45 LPA",
+      "highestPackage": "45 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE branches",
+        "duration": "4 years",
+        "annualFee": "₹14,00,000 with hostel / ₹11,00,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. other branches",
+        "duration": "4 years",
+        "annualFee": "₹13,50,000 with hostel / ₹11,00,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "CMRU University (CMR University)",
+    "image": "/logos/cmru-cmr-university-bangalore.jpeg",
+    "imgAlt": "CMRU University (CMR University) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Overall Top Private",
+    "popularCourses": [
+      "B.Tech CSE",
+      "B.Tech AI & ML",
+      "B.Tech Data Science",
+      "B.Tech IT",
+      "B.Tech ECE"
+    ],
+    "annualFees": "₹9.5L–₹11.5L B.Tech total",
+    "highestPackage": "30 LPA",
+    "keyHighlights": "UGC recognised private university; multiple schools; Bangalore North; modern campus",
+    "officialWebsite": "https://www.cmru.ac.in",
+    "slug": "cmru-cmr-university-bangalore",
+    "metaTitle": "CMRU University (CMR University) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for CMRU University (CMR University) with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "CMRU University (CMR University) is located in Bangalore, Karnataka. UGC recognised private university; multiple schools; Bangalore North; modern campus",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 30 LPA",
+      "highestPackage": "30 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE",
+        "duration": "4 years",
+        "annualFee": "₹11,50,000 with hostel / ₹10,00,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech CSE-AI & ML / CSE-DS / CE / CS&T / IT / ECE",
+        "duration": "4 years",
+        "annualFee": "₹11,00,000 with hostel / ₹9,50,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Dhanvantari Group of Institutions",
+    "image": "/logos/dhanvantari-group-institutions-bangalore.jpg",
+    "imgAlt": "Dhanvantari Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM",
+      "B.Sc Nursing",
+      "Allied Health",
+      "BPT",
+      "B.Pharm",
+      "D.Pharm"
+    ],
+    "annualFees": "₹1.8L–₹9.5L course total",
+    "highestPackage": "—",
+    "keyHighlights": "Pharmacy & engineering focus; Karnataka; Rajiv Gandhi Health Sciences affiliated for pharma",
+    "officialWebsite": "https://www.dhanvantariedu.in",
+    "slug": "dhanvantari-group-institutions-bangalore",
+    "metaTitle": "Dhanvantari Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Dhanvantari Group of Institutions with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Sc Nursing",
+    "overview": "Dhanvantari Group of Institutions is located in Bangalore, Karnataka. Pharmacy & engineering focus; Karnataka; Rajiv Gandhi Health Sciences affiliated for pharma",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "—",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹4,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹9,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Allied Health B.Sc",
+        "duration": "4 years",
+        "annualFee": "₹5,80,000–₹6,80,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BPT",
+        "duration": "4.5 years",
+        "annualFee": "₹8,40,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Pharm / D.Pharm",
+        "duration": "4 / 2 years",
+        "annualFee": "₹7,90,000 / ₹1,80,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition unless stated",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "GNM tuition-only estimate: UGC and registration ₹15,000 one time.",
+      "GNM tuition-only estimate: special clinical posting ₹7,500–₹10,000 one time.",
+      "GNM tuition-only estimate: examination fee approximately ₹5,000 per year.",
+      "GNM tuition-only estimate: uniform and lamp-lighting approximately ₹7,500; Nepal NOC approximately ₹2,000."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "East Point Group of Institutions",
+    "image": "/logos/east-point-group-institutions-bangalore.webp",
+    "imgAlt": "East Point Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E.",
+      "BBA",
+      "BCA",
+      "MBA",
+      "MCA",
+      "B.Com",
+      "B.Pharm",
+      "D.Pharm",
+      "Pharm.D",
+      "GNM",
+      "B.Sc Nursing",
+      "BPT",
+      "Allied Health"
+    ],
+    "annualFees": "₹90K–₹16.6L course total",
+    "highestPackage": "22 LPA",
+    "keyHighlights": "Multi-disciplinary Bangalore campus; engineering, management, computing, pharmacy, nursing, physiotherapy and allied health; detailed SAARC hostel tiers available",
+    "officialWebsite": "https://www.eastpoint.ac.in",
+    "slug": "east-point-group-institutions-bangalore",
+    "metaTitle": "East Point Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for East Point Group of Institutions with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "East Point Group of Institutions offers engineering, management, computing, pharmacy, nursing, physiotherapy and allied health programs in Bangalore. Fee basis varies by course and hostel selection.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 22 LPA",
+      "highestPackage": "22 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE / AI & ML / Data Science / IoT & Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹10,60,000 with hostel / ₹8,40,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ISE / ECE",
+        "duration": "4 years",
+        "annualFee": "₹9,40,000 with hostel / ₹8,10,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Civil",
+        "duration": "4 years",
+        "annualFee": "₹7,80,000 with hostel / ₹6,50,000 without",
+        "feeBasis": "Total package / tuition",
+        "inclusions": "Hostel included only in first amount",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA Professional / Aviation; BCA Professional",
+        "duration": "3 years",
+        "annualFee": "₹2,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA AI / Data Science",
+        "duration": "3 years",
+        "annualFee": "₹2,70,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Com Professional",
+        "duration": "3 years",
+        "annualFee": "₹1,80,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA Regular / Professional",
+        "duration": "2 years",
+        "annualFee": "₹2,70,000 / ₹3,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MCA / M.Com",
+        "duration": "2 years",
+        "annualFee": "₹2,70,000 / ₹90,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "D.Pharm / B.Pharm / Pharm.D / M.Pharm",
+        "duration": "2–6 years",
+        "annualFee": "₹2,10,000 / ₹4,70,000 / ₹16,60,000 / ₹4,70,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹5,65,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹11,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BPT",
+        "duration": "4.5 years",
+        "annualFee": "₹6,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MPT specialisations",
+        "duration": "2 years",
+        "annualFee": "₹4,00,000–₹4,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": "Pediatrics, cardiovascular, pulmonary sciences and community health options listed"
+      },
+      {
+        "course": "B.Sc Cardiac Care",
+        "duration": "4 years",
+        "annualFee": "₹8,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Perfusion / Anaesthesia & OT",
+        "duration": "4 years",
+        "annualFee": "₹4,76,000 / ₹6,20,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Medical Imaging / Medical Lab",
+        "duration": "4 years",
+        "annualFee": "₹4,80,000 / ₹4,00,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Emergency & Trauma / Occupational Therapy",
+        "duration": "4 years",
+        "annualFee": "₹3,55,000 / ₹5,10,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Course total; engineering and nursing rows may include hostel",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "Boys hostel per year: premium double ₹1,80,000; premium triple ₹1,40,000; regular 4-sharing ₹1,05,000.",
+      "Girls hostel per year: premium double ₹1,80,000; premium triple ₹1,30,000; regular triple ₹1,20,000; regular 4-sharing ₹1,05,000."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "East West Group of Institutions",
+    "image": "/logos/east-west-group-institutions-bangalore.png",
+    "imgAlt": "East West Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E.",
+      "BBA",
+      "BCA",
+      "B.Com",
+      "MBA",
+      "MCA",
+      "B.Pharm",
+      "D.Pharm",
+      "Pharm.D",
+      "GNM",
+      "B.Sc Nursing",
+      "Law",
+      "Hotel Management"
+    ],
+    "annualFees": "₹2L–₹15L course total",
+    "highestPackage": "20 LPA",
+    "keyHighlights": "Affiliated to VTU, RGUHS and Bangalore University; engineering packages include accommodation and food",
+    "officialWebsite": "https://www.ewit.edu.in",
+    "slug": "east-west-group-institutions-bangalore",
+    "metaTitle": "East West Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for East West Group of Institutions with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "East West Group of Institutions in Bangalore provides engineering, management, computing, pharmacy, nursing, law and hospitality programs under multiple university affiliations.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 20 LPA",
+      "highestPackage": "20 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. Computer Science",
+        "duration": "4 years",
+        "annualFee": "₹9,75,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + accommodation + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. AI & ML / ISE / AI & DS / IoT / Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹8,60,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + accommodation + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ECE / Civil / Mechanical / EEE",
+        "duration": "4 years",
+        "annualFee": "₹7,15,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + accommodation + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "D.Pharm / B.Pharm / Pharm.D / M.Pharm",
+        "duration": "2–6 years",
+        "annualFee": "₹2,55,000 / ₹6,65,000 / ₹15,00,000 / ₹5,00,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Com / BBA / BBA Aviation / BCA",
+        "duration": "3 years",
+        "annualFee": "₹3,50,000 / ₹3,15,000 / ₹4,65,000 / ₹4,65,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "M.Com / MBA / MCA",
+        "duration": "2 years",
+        "annualFee": "₹2,00,000 / ₹5,25,000 / ₹4,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "LLB / BBA-LLB / BHM",
+        "duration": "3–5 years",
+        "annualFee": "₹5,25,000 / ₹4,50,000 / ₹5,25,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹5,10,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing - main / Yelahanka campus",
+        "duration": "4 years",
+        "annualFee": "₹11,50,000 / ₹10,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition or engineering/nursing package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "JAIN (Deemed-to-be University)",
+    "image": null,
+    "imgAlt": "JAIN (Deemed-to-be University) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Deemed-to-be University",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech",
+      "B.Com",
+      "BBA",
+      "MBA",
+      "BCA",
+      "MCA",
+      "B.Sc",
+      "Allied Health",
+      "B.Des",
+      "Law"
+    ],
+    "annualFees": "₹1.26L–₹7.5L/year",
+    "feeBasis": "SAARC special tuition per year",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "SAARC special yearly tuition across engineering, management, computing, sciences, allied health, design and law",
+    "officialWebsite": "https://www.jainuniversity.ac.in",
+    "slug": "jain-university-bangalore",
+    "metaTitle": "JAIN (Deemed-to-be University) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for JAIN (Deemed-to-be University) from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "JAIN (Deemed-to-be University) is located in Bangalore, Karnataka. SAARC special yearly tuition across engineering, management, computing, sciences, allied health, design and law",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE / AI & ML or Data Engineering / Aerospace or Core",
+        "duration": "4 years",
+        "annualFee": "₹3,60,000 / ₹5,00,000 / ₹2,85,000 per year",
+        "feeBasis": "Yearly SAARC package",
+        "inclusions": "Hostel included in supplied B.Tech figures",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Com / BBA / MBA",
+        "duration": "3 / 3 / 2 years",
+        "annualFee": "₹1,90,000–₹2,50,000 / ₹2,25,000–₹3,65,000 / ₹4,00,000–₹7,50,000 per year",
+        "feeBasis": "Yearly SAARC tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA / MCA / B.Sc",
+        "duration": "3 / 2 / 3–4 years",
+        "annualFee": "₹1,75,000–₹2,45,000 / ₹1,90,000–₹2,90,000 / ₹1,26,000–₹1,99,000 per year",
+        "feeBasis": "Yearly SAARC tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Allied Health B.Sc / B.Des / Law",
+        "duration": "3–5 years",
+        "annualFee": "₹1,70,000–₹1,90,000 / ₹4,65,000 / ₹2,35,000–₹2,90,000 per year",
+        "feeBasis": "Yearly SAARC tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "Karnataka College Group of Institutions (KCGI)",
+    "image": null,
+    "imgAlt": "Karnataka College Group of Institutions (KCGI) logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Com",
+      "BBA",
+      "BCA",
+      "B.Sc Renal Dialysis",
+      "LLB",
+      "BA LLB",
+      "B.Com LLB"
+    ],
+    "annualFees": "₹2.45L–₹5.5L total tuition",
+    "feeBasis": "Total tuition",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "Management, computing, law and renal dialysis programs in Bangalore",
+    "officialWebsite": "",
+    "slug": "karnataka-college-group-institutions-bangalore",
+    "metaTitle": "Karnataka College Group of Institutions (KCGI) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for Karnataka College Group of Institutions (KCGI) from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Com",
+    "overview": "Karnataka College Group of Institutions (KCGI) is located in Bangalore, Karnataka. Management, computing, law and renal dialysis programs in Bangalore",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "B.Com / BBA",
+        "duration": "3 years",
+        "annualFee": "₹3,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA",
+        "duration": "3 years",
+        "annualFee": "₹3,70,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Renal Dialysis",
+        "duration": "4 years",
+        "annualFee": "₹3,20,000–₹5,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "LLB",
+        "duration": "3 years",
+        "annualFee": "₹2,45,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BA LLB / B.Com LLB",
+        "duration": "5 years",
+        "annualFee": "₹3,80,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "Nagarjuna College of Engineering & Technology",
+    "image": "/logos/nagarjuna-college-engineering-bangalore.png",
+    "imgAlt": "Nagarjuna College of Engineering & Technology logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. AI & ML",
+      "B.E. Data Science",
+      "B.E. Cyber Security",
+      "B.E. ISE",
+      "B.E. ECE",
+      "B.E. Civil"
+    ],
+    "annualFees": "₹9L–₹11L total package",
+    "highestPackage": "20 LPA",
+    "keyHighlights": "VTU affiliated; Devanahalli Bangalore; near Kempegowda Airport; good placements",
+    "officialWebsite": "https://www.nagarjunaedu.org",
+    "slug": "nagarjuna-college-engineering-bangalore",
+    "metaTitle": "Nagarjuna College of Engineering & Technology Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Nagarjuna College of Engineering & Technology with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "Nagarjuna College of Engineering & Technology is located in Bangalore, Karnataka. VTU affiliated; Devanahalli Bangalore; near Kempegowda Airport; good placements",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 20 LPA",
+      "highestPackage": "20 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE / AI & ML / Data Science / Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹11,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ISE / ECE",
+        "duration": "4 years",
+        "annualFee": "₹10,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Civil",
+        "duration": "4 years",
+        "annualFee": "₹9,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing hostel",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "New Sarvodaya School of Nursing",
+    "image": null,
+    "imgAlt": "New Sarvodaya School of Nursing logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Nursing School",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM"
+    ],
+    "annualFees": "₹4.4L GNM package",
+    "feeBasis": "Total package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "GNM nursing package with hostel and food",
+    "officialWebsite": "",
+    "slug": "new-sarvodaya-school-nursing-bangalore",
+    "metaTitle": "New Sarvodaya School of Nursing Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for New Sarvodaya School of Nursing from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "GNM",
+    "overview": "New Sarvodaya School of Nursing is located in Bangalore, Karnataka. GNM nursing package with hostel and food",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹4,40,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "Noor College of Nursing",
+    "image": null,
+    "imgAlt": "Noor College of Nursing logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Nursing College",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM",
+      "B.Sc Nursing"
+    ],
+    "annualFees": "₹3.95L–₹8.6L package",
+    "feeBasis": "Total package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "Nursing programs with supplied hostel-and-food packages",
+    "officialWebsite": "",
+    "slug": "noor-college-nursing-bangalore",
+    "metaTitle": "Noor College of Nursing Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for Noor College of Nursing from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "GNM",
+    "overview": "Noor College of Nursing is located in Bangalore, Karnataka. Nursing programs with supplied hostel-and-food packages",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹3,95,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹8,60,000",
+        "feeBasis": "Total package",
+        "inclusions": "Confirm exact inclusions",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "NSS Group of Institutions",
+    "image": null,
+    "imgAlt": "NSS Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Nursing & Paramedical College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM",
+      "B.Sc Nursing",
+      "PB B.Sc Nursing",
+      "M.Sc Nursing",
+      "Paramedical Diploma",
+      "D.Pharm"
+    ],
+    "annualFees": "₹1.4L–₹5.95L total tuition",
+    "feeBasis": "Total tuition",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "GNM tuition-only estimate: UGC and registration ₹15,000 one time.",
+      "GNM tuition-only estimate: special clinical posting ₹7,500–₹10,000 one time.",
+      "GNM tuition-only estimate: examination fee approximately ₹5,000 per year.",
+      "GNM tuition-only estimate: uniform and lamp-lighting approximately ₹7,500; Nepal NOC approximately ₹2,000."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "Nursing, paramedical and pharmacy options for Nepal/SAARC students",
+    "officialWebsite": "",
+    "slug": "nss-group-institutions-bangalore",
+    "metaTitle": "NSS Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for NSS Group of Institutions from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "GNM",
+    "overview": "NSS Group of Institutions is located in Bangalore, Karnataka. Nursing, paramedical and pharmacy options for Nepal/SAARC students",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "GNM / B.Sc Nursing",
+        "duration": "3 / 4 years",
+        "annualFee": "₹2,90,000 / ₹5,95,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "PB B.Sc Nursing / M.Sc Nursing",
+        "duration": "2 years",
+        "annualFee": "₹2,25,000 / ₹2,50,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Paramedical diplomas / D.Pharm",
+        "duration": "2–3 / 2 years",
+        "annualFee": "₹2,50,000 / ₹1,40,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "PadmaShree Institute of Nursing",
+    "image": null,
+    "imgAlt": "PadmaShree Institute of Nursing logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Nursing Institute",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM"
+    ],
+    "annualFees": "₹4.5L GNM package",
+    "feeBasis": "Total package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "GNM nursing package with hostel and food",
+    "officialWebsite": "",
+    "slug": "padmashree-institute-nursing-bangalore",
+    "metaTitle": "PadmaShree Institute of Nursing Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for PadmaShree Institute of Nursing from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "GNM",
+    "overview": "PadmaShree Institute of Nursing is located in Bangalore, Karnataka. GNM nursing package with hostel and food",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹4,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": ""
+  },
+  {
+    "name": "RV University",
+    "image": null,
+    "imgAlt": "RV University logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private University",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech CSE",
+      "B.Sc Computer Science",
+      "BCA",
+      "B.Des",
+      "BBA",
+      "B.Com",
+      "Allied Health",
+      "Law",
+      "MBA"
+    ],
+    "annualFees": "₹72K–₹3.75L tuition",
+    "feeBasis": "Tuition; mandatory skill/exam fees extra",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "Official RVU documents show different skill/exam charges for KEA seats; confirm the exact admission route and offer letter."
+    ],
+    "highestPackage": "Contact for details",
+    "keyHighlights": "Course-specific tuition with mandatory skill, other and examination charges; fees vary by admission route",
+    "officialWebsite": "https://rvu.edu.in",
+    "slug": "rv-university-bangalore",
+    "metaTitle": "RV University Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, indicative fees and admission guidance for RV University from AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "RV University is located in Bangalore, Karnataka. Course-specific tuition with mandatory skill, other and examination charges; fees vary by admission route",
+    "admissionSteps": [
+      "Share academic documents and preferred course with AIMS Global",
+      "Confirm the current fee basis, inclusions and eligibility",
+      "Submit the official application and required documents",
+      "Review the written offer, refund terms and payment schedule",
+      "Complete admission and accommodation arrangements"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "Contact for details",
+      "recruiters": []
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE - AI & ML / Data Science / Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹3,00,000 tuition + ₹50,000 fees",
+        "feeBasis": "Tuition + mandatory charges",
+        "inclusions": "₹50,000 exam/skill charge per supplied direct-route sheet",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Computer Science / Data Science",
+        "duration": "3–4 years",
+        "annualFee": "₹1,05,000 tuition + ₹21,000 fees",
+        "feeBasis": "Tuition + mandatory charges",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BCA Hons",
+        "duration": "3–4 years",
+        "annualFee": "₹1,50,000 tuition + ₹21,000 fees",
+        "feeBasis": "Tuition + mandatory charges",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Des",
+        "duration": "4 years",
+        "annualFee": "₹2,40,000 tuition + ₹31,000 fees",
+        "feeBasis": "Tuition + mandatory charges",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / B.Com / Allied Health B.Sc / Law",
+        "duration": "3–5 years",
+        "annualFee": "₹72,000–₹1,50,000 tuition + ₹16,000 fees",
+        "feeBasis": "Tuition + mandatory charges",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹3,30,000–₹3,75,000 tuition",
+        "feeBasis": "Tuition",
+        "inclusions": "Mandatory charges extra",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeSourceUrl": "https://socse.rvu.edu.in/programmes/undergraduate-programmes/btech-hon-computer-science-and-engineering-program/"
+  },
+  {
+    "name": "SB Group of Institutions",
+    "image": "/logos/sb-group-institutions-bangalore.png",
+    "imgAlt": "SB Group of Institutions logo",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "GNM"
+    ],
+    "annualFees": "₹4L GNM total tuition",
+    "highestPackage": "—",
+    "keyHighlights": "VTU affiliated; multiple campuses in Bangalore; affordable education",
+    "officialWebsite": "https://www.sbgroupofinstitutions.com",
+    "slug": "sb-group-institutions-bangalore",
+    "metaTitle": "SB Group of Institutions Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for SB Group of Institutions with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "GNM",
+    "overview": "SB Group of Institutions is located in Bangalore, Karnataka. VTU affiliated; multiple campuses in Bangalore; affordable education",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "—",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "GNM",
+        "duration": "3 years",
+        "annualFee": "₹4,00,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total tuition",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment.",
+      "GNM tuition-only estimate: UGC and registration ₹15,000 one time.",
+      "GNM tuition-only estimate: special clinical posting ₹7,500–₹10,000 one time.",
+      "GNM tuition-only estimate: examination fee approximately ₹5,000 per year.",
+      "GNM tuition-only estimate: uniform and lamp-lighting approximately ₹7,500; Nepal NOC approximately ₹2,000."
+    ],
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026"
+  },
+  {
+    "name": "Shri Maruthi Group of Institutions",
+    "image": "/logos/shri-maruthi-group-institutions-karnataka.png",
+    "imgAlt": "Shri Maruthi Group of Institutions logo",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private College Group",
+    "naacGrade": "—",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech",
+      "BCA",
+      "BBA",
+      "MBA",
+      "Polytechnic"
+    ],
+    "annualFees": "₹60K–₹1.2L/year",
+    "highestPackage": "—",
+    "keyHighlights": "VTU affiliated; multiple campuses; affordable; Karnataka",
+    "officialWebsite": "https://www.shrimaruthy.ac.in",
+    "slug": "shri-maruthi-group-institutions-karnataka",
+    "metaTitle": "Shri Maruthi Group of Institutions Karnataka – Courses & Admission",
+    "metaDescription": "Shri Maruthi Group offers affordable engineering & management in Karnataka. Apply through AIMS Global Nepal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "Shri Maruthi Group of Institutions is located in Bengaluru, Karnataka. VTU affiliated; multiple campuses; affordable; Karnataka",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport copy",
+      "Passport-size photographs",
+      "Migration certificate",
+      "Character certificate",
+      "NEET scorecard (for medical courses)"
+    ],
+    "placements": {
+      "averagePackage": "Contact for details",
+      "highestPackage": "—",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech",
+        "duration": "4 years",
+        "annualFee": "₹60K–₹1.2L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "BCA",
+        "duration": "4 years",
+        "annualFee": "₹60K–₹1.2L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "BBA",
+        "duration": "4 years",
+        "annualFee": "₹60K–₹1.2L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹60K–₹1.2L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "CAT/MAT"
+      },
+      {
+        "course": "Polytechnic",
+        "duration": "4 years",
+        "annualFee": "₹60K–₹1.2L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      }
+    ]
+  },
+  {
+    "name": "Siddaganga Institutions, Tumakuru",
+    "image": "/logos/siddaganga-medical-college-tumkur.webp",
+    "imgAlt": "Siddaganga Medical College & Research Institute logo",
+    "city": "Tumkur",
+    "state": "Karnataka",
+    "type": "Engineering & Health Sciences Institutions",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top Medical Colleges India",
+    "popularCourses": [
+      "B.E. CSE",
+      "B.E. ECE",
+      "B.E. ISE",
+      "B.E. AI & ML",
+      "B.E. Civil",
+      "B.E. Biotechnology",
+      "Allied Health"
+    ],
+    "annualFees": "₹2.25L–₹3L/year engineering",
+    "highestPackage": "N/A (Medical)",
+    "keyHighlights": "Engineering options and supported allied health programs in Tumakuru; fee basis differs by faculty",
+    "officialWebsite": "https://www.sjmtrust.org/smch",
+    "slug": "siddaganga-medical-college-tumkur",
+    "metaTitle": "Siddaganga Institutions, Tumakuru Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Siddaganga Institutions, Tumakuru with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "Siddaganga institutions in Tumakuru offer engineering and supported allied health study options. Engineering figures are yearly tuition, while allied health figures are total four-year tuition.",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to N/A (Medical)",
+      "highestPackage": "N/A (Medical)",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E. CSE",
+        "duration": "4 years",
+        "annualFee": "₹3,00,000/year",
+        "feeBasis": "Yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. ECE / ISE / AI & ML",
+        "duration": "4 years",
+        "annualFee": "₹2,75,000/year",
+        "feeBasis": "Yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.E. Biotechnology / Chemical / Civil",
+        "duration": "4 years",
+        "annualFee": "₹2,25,000/year",
+        "feeBasis": "Yearly tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Cardiac Care",
+        "duration": "4 years",
+        "annualFee": "₹6,25,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Anaesthesia / Medical Imaging",
+        "duration": "4 years",
+        "annualFee": "₹4,45,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Emergency / MLT / Renal Dialysis",
+        "duration": "4 years",
+        "annualFee": "₹3,75,000",
+        "feeBasis": "Total tuition",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Engineering per year; allied health total tuition",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Chennai Institute of Technology (CIT)",
+    "image": "/logos/chennai-institute-technology-chennai.jpg",
+    "imgAlt": "Chennai Institute of Technology (CIT) logo",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "#151-200 NIRF 2024",
+    "popularCourses": [
+      "B.E./B.Tech CSE",
+      "Cyber Security",
+      "AI & ML",
+      "ECE",
+      "Biomedical",
+      "EEE",
+      "Mechanical",
+      "Civil",
+      "IT",
+      "AI & DS",
+      "CSBS"
+    ],
+    "annualFees": "₹8.9L total package",
+    "highestPackage": "30 LPA",
+    "keyHighlights": "Anna University affiliated; NBA accredited depts; strong industry ties; Chennai location",
+    "officialWebsite": "https://www.citchennai.edu.in",
+    "slug": "chennai-institute-technology-chennai",
+    "metaTitle": "Chennai Institute of Technology (CIT) Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Chennai Institute of Technology (CIT) with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E./B.Tech CSE",
+    "overview": "Chennai Institute of Technology (CIT) is located in Chennai, Tamil Nadu. Anna University affiliated; NBA accredited depts; strong industry ties; Chennai location",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 30 LPA",
+      "highestPackage": "30 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E./B.Tech supported branches",
+        "duration": "4 years",
+        "annualFee": "₹8,90,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3/4-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Easwari Engineering College",
+    "image": "/logos/easwari-engineering-college-chennai.png",
+    "imgAlt": "Easwari Engineering College logo",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "#Top 200 NIRF",
+    "popularCourses": [
+      "B.Tech CSE",
+      "B.Tech IT",
+      "B.Tech ECE",
+      "Biomedical",
+      "Biotechnology",
+      "Mechanical",
+      "Civil",
+      "EEE",
+      "Robotics",
+      "MBA",
+      "MCA",
+      "M.E."
+    ],
+    "annualFees": "₹3L–₹8L total package",
+    "highestPackage": "25 LPA",
+    "keyHighlights": "Anna University affiliated; SRM group institution; established 1996; Chennai West",
+    "officialWebsite": "https://www.eec.edu.in",
+    "slug": "easwari-engineering-college-chennai",
+    "metaTitle": "Easwari Engineering College Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Easwari Engineering College with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "Easwari Engineering College is located in Chennai, Tamil Nadu. Anna University affiliated; SRM group institution; established 1996; Chennai West",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 25 LPA",
+      "highestPackage": "25 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE / IT / ECE",
+        "duration": "4 years",
+        "annualFee": "₹8,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Biomedical / Biotech / Mechanical / Auto / Civil / EEE / Robotics",
+        "duration": "4 years",
+        "annualFee": "₹6,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA / MCA",
+        "duration": "2 years",
+        "annualFee": "₹5,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "M.E.",
+        "duration": "2 years",
+        "annualFee": "₹3,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "SRM Institute of Science & Technology - Ramapuram Campus",
+    "image": "/logos/srm-institute-science-technology-chennai.svg",
+    "imgAlt": "SRM Institute of Science & Technology logo",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "naacGrade": "A++",
+    "nirfRanking": "#20 NIRF Overall 2024",
+    "popularCourses": [
+      "B.Tech CSE",
+      "IT",
+      "ECE",
+      "Core Engineering",
+      "B.Arch",
+      "B.Sc",
+      "B.Com",
+      "BBA",
+      "BCA",
+      "MBA",
+      "B.Des",
+      "MCA",
+      "M.Tech"
+    ],
+    "annualFees": "₹5L–₹12L total package",
+    "highestPackage": "52.5 LPA",
+    "keyHighlights": "Top 20 NIRF; QS World Top 800; NAAC A++; Kattankulathur Chennai; 52,000+ students",
+    "officialWebsite": "https://www.srmist.edu.in",
+    "slug": "srm-institute-science-technology-chennai",
+    "metaTitle": "SRM Institute of Science & Technology - Ramapuram Campus Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for SRM Institute of Science & Technology - Ramapuram Campus with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "SRM Institute of Science & Technology is located in Chennai, Tamil Nadu. Top 20 NIRF; QS World Top 800; NAAC A++; Kattankulathur Chennai; 52,000+ students",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 52.5 LPA",
+      "highestPackage": "52.5 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE / IT / ECE",
+        "duration": "4 years",
+        "annualFee": "₹12,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Core / B.Arch",
+        "duration": "4–5 years",
+        "annualFee": "₹10,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc / B.Com / BBA / BCA / MBA / B.Des",
+        "duration": "2–4 years",
+        "annualFee": "₹6,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MCA / M.Tech",
+        "duration": "2 years",
+        "annualFee": "₹5,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+    "image": "/logos/vel-tech-university-chennai.png",
+    "imgAlt": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology logo",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "naacGrade": "A+",
+    "nirfRanking": "#Top 150 NIRF Eng",
+    "popularCourses": [
+      "B.Tech CSE",
+      "AI & ML",
+      "AI & DS",
+      "Cyber Security",
+      "IT",
+      "Biomedical",
+      "Biotechnology",
+      "M.Tech",
+      "BBA",
+      "MBA"
+    ],
+    "annualFees": "₹3.75L–₹8.95L total",
+    "highestPackage": "32 LPA",
+    "keyHighlights": "UGC Deemed University; strong R&D focus; Chennai; NBA accredited programs",
+    "officialWebsite": "https://www.veltech.edu.in",
+    "slug": "vel-tech-university-chennai",
+    "metaTitle": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology with AIMS Global Butwal.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology is located in Chennai, Tamil Nadu. UGC Deemed University; strong R&D focus; Chennai; NBA accredited programs",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 32 LPA",
+      "highestPackage": "32 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE - AI & ML / AI & DS / Cyber Security",
+        "duration": "4 years",
+        "annualFee": "₹8,95,000",
+        "feeBasis": "Total fee",
+        "inclusions": "Hostel included",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech Core / IT / Biomedical / Biotechnology",
+        "duration": "4 years",
+        "annualFee": "₹6,95,000",
+        "feeBasis": "Total fee",
+        "inclusions": "Hostel included",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "M.Tech",
+        "duration": "2 years",
+        "annualFee": "₹3,75,000",
+        "feeBasis": "Total fee",
+        "inclusions": "Hostel included",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "BBA / MBA",
+        "duration": "3 / 2 years",
+        "annualFee": "₹4,50,000",
+        "feeBasis": "Total fee",
+        "inclusions": "Hostel included",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course fee with hostel",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "image": "/logos/amrita-vishwa-vidyapeetham-coimbatore.jpg",
+    "imgAlt": "Amrita Vishwa Vidyapeetham logo",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "naacGrade": "A++",
+    "nirfRanking": "#7 NIRF Overall 2024",
+    "popularCourses": [
+      "B.Tech",
+      "MBBS",
+      "BDS",
+      "Pharm.D",
+      "MBA",
+      "BCA",
+      "B.Sc",
+      "Nursing"
+    ],
+    "annualFees": "₹2L–₹12L/year",
+    "highestPackage": "55 LPA",
+    "keyHighlights": "Top 10 NIRF India; 7 campuses; NAAC A++; QS World Top 700; excellent medical & engineering",
+    "officialWebsite": "https://www.amrita.edu",
+    "slug": "amrita-vishwa-vidyapeetham-coimbatore",
+    "metaTitle": "Amrita University Coimbatore – Top #7 NIRF Admission 2025 Guide",
+    "metaDescription": "Amrita Vishwa Vidyapeetham ranks #7 in India NIRF. Apply for B.Tech, MBBS & more through AIMS Global Nepal consultancy.",
+    "isFeatured": true,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech",
+    "overview": "Amrita Vishwa Vidyapeetham is located in Coimbatore, Tamil Nadu. Top 10 NIRF India; 7 campuses; NAAC A++; QS World Top 700; excellent medical & engineering",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport copy",
+      "Passport-size photographs",
+      "Migration certificate",
+      "Character certificate",
+      "NEET scorecard (for medical courses)"
+    ],
+    "placements": {
+      "averagePackage": "Up to 55 LPA",
+      "highestPackage": "55 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBBS",
+        "duration": "5.5 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "NEET"
+      },
+      {
+        "course": "BDS",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "Pharm.D",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "CAT/MAT"
+      },
+      {
+        "course": "BCA",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "B.Sc",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      },
+      {
+        "course": "Nursing",
+        "duration": "4 years",
+        "annualFee": "₹2L–₹12L/year",
+        "eligibility": "+2 with relevant subjects (minimum 50%)",
+        "entranceExam": "Merit / University Entrance"
+      }
+    ]
+  },
+  {
+    "name": "Rathinam Technical Campus",
+    "image": "/logos/rathinam-technical-campus-coimbatore.png",
+    "imgAlt": "Rathinam Technical Campus logo",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private College",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E./B.Tech CSE",
+      "AI",
+      "IT",
+      "Biotechnology",
+      "Mechanical",
+      "ECE"
+    ],
+    "annualFees": "₹5.75L total package",
+    "highestPackage": "12 LPA",
+    "keyHighlights": "Anna University affiliated; Coimbatore; hostel & transport; affordable education",
+    "officialWebsite": "https://www.rathinam.in",
+    "slug": "rathinam-technical-campus-coimbatore",
+    "metaTitle": "Rathinam Technical Campus Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Rathinam Technical Campus with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E./B.Tech CSE",
+    "overview": "Rathinam Technical Campus is located in Coimbatore, Tamil Nadu. Anna University affiliated; Coimbatore; hostel & transport; affordable education",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 12 LPA",
+      "highestPackage": "12 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.E./B.Tech supported branches",
+        "duration": "4 years",
+        "annualFee": "₹5,75,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "Mahendra Engineering College",
+    "image": "/logos/mahendra-engineering-college-salem.png",
+    "imgAlt": "Mahendra Engineering College logo",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech/B.E. CSE",
+      "AI",
+      "IT",
+      "Aerospace",
+      "Civil",
+      "Mechanical",
+      "ECE"
+    ],
+    "annualFees": "₹5L total package",
+    "highestPackage": "15 LPA",
+    "keyHighlights": "Anna University affiliated; Salem district; residential campus; affordable fees",
+    "officialWebsite": "https://www.mahendra.college",
+    "slug": "mahendra-engineering-college-salem",
+    "metaTitle": "Mahendra Engineering College Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for Mahendra Engineering College with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech/B.E. CSE",
+    "overview": "Mahendra Engineering College is located in Salem, Tamil Nadu. Anna University affiliated; Salem district; residential campus; affordable fees",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 15 LPA",
+      "highestPackage": "15 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech/B.E. supported branches",
+        "duration": "4 years",
+        "annualFee": "₹5,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + hostel + mess",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "SRM Institute of Science & Technology",
+    "image": "/logos/srm-institute-science-technology-trichy.webp",
+    "imgAlt": "SRM Institute of Science & Technology logo",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "naacGrade": "A+",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.Tech CSE",
+      "IT",
+      "ECE",
+      "Mechanical",
+      "EEE",
+      "Biomedical",
+      "Biotechnology",
+      "B.Sc Nursing",
+      "Allied Health",
+      "MBA",
+      "MCA"
+    ],
+    "annualFees": "₹4.25L–₹10L total package",
+    "highestPackage": "28 LPA",
+    "keyHighlights": "SRM Group; Trichy campus; UGC Deemed; strong engineering programs",
+    "officialWebsite": "https://www.srmtrichy.edu.in",
+    "slug": "srm-institute-science-technology-trichy",
+    "metaTitle": "SRM Institute of Science & Technology Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for SRM Institute of Science & Technology with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.Tech CSE",
+    "overview": "SRM Institute of Science & Technology is located in Tiruchirappalli, Tamil Nadu. SRM Group; Trichy campus; UGC Deemed; strong engineering programs",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 28 LPA",
+      "highestPackage": "28 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "B.Tech CSE",
+        "duration": "4 years",
+        "annualFee": "₹10,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food + free iPad",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Tech IT / ECE / Mechanical / EEE / Biomedical / Biotechnology",
+        "duration": "4 years",
+        "annualFee": "₹8,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food + free iPad",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "B.Sc Nursing",
+        "duration": "4 years",
+        "annualFee": "₹10,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "Allied Health UG / PG",
+        "duration": "3–4 / 2 years",
+        "annualFee": "₹6,00,000 / ₹4,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA / MCA",
+        "duration": "2 years",
+        "annualFee": "₹4,50,000 / ₹4,25,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  },
+  {
+    "name": "SRM TRP Engineering College",
+    "image": "/logos/srm-trp-engineering-college-trichy.ico",
+    "imgAlt": "SRM TRP Engineering College logo",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "Private Engineering College",
+    "naacGrade": "A",
+    "nirfRanking": "—",
+    "popularCourses": [
+      "B.E. CSE",
+      "IT",
+      "ECE",
+      "Mechanical",
+      "EEE",
+      "MBA",
+      "M.E."
+    ],
+    "annualFees": "₹1.5L–₹6L total package",
+    "highestPackage": "18 LPA",
+    "keyHighlights": "Anna University affiliated; Trichy; affordable; good campus facilities",
+    "officialWebsite": "https://www.srmtrp.ac.in",
+    "slug": "srm-trp-engineering-college-trichy",
+    "metaTitle": "SRM TRP Engineering College Admission 2026 - Courses & Fees",
+    "metaDescription": "Explore supported courses, fee basis and admission guidance for SRM TRP Engineering College with AIMS Global Butwal.",
+    "isFeatured": false,
+    "status": "Active",
+    "established": "—",
+    "topCourse": "B.E. CSE",
+    "overview": "SRM TRP Engineering College is located in Tiruchirappalli, Tamil Nadu. Anna University affiliated; Trichy; affordable; good campus facilities",
+    "admissionSteps": [
+      "Share your academic documents with AIMS Global counsellors",
+      "Get a personalised shortlist based on your budget and course preference",
+      "Submit application forms with our document support",
+      "Receive admission letter and complete fee payment",
+      "Get visa and travel guidance before departure"
+    ],
+    "documentsRequired": [
+      "+2 / SEE marksheets and certificates",
+      "Passport or citizenship copy",
+      "Passport-size photographs",
+      "Migration / transfer certificate",
+      "Character certificate",
+      "Course-specific entrance or eligibility documents, if required"
+    ],
+    "placements": {
+      "averagePackage": "Up to 18 LPA",
+      "highestPackage": "18 LPA",
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant",
+        "HCL",
+        "Accenture"
+      ]
+    },
+    "coursesFees": [
+      {
+        "course": "UG CSE / IT / ECE",
+        "duration": "4 years",
+        "annualFee": "₹6,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "UG Mechanical / EEE",
+        "duration": "4 years",
+        "annualFee": "₹5,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition + 3-sharing AC hostel + food",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "MBA",
+        "duration": "2 years",
+        "annualFee": "₹3,00,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      },
+      {
+        "course": "M.E.",
+        "duration": "2 years",
+        "annualFee": "₹1,50,000",
+        "feeBasis": "Total package",
+        "inclusions": "Tuition only",
+        "eligibility": "Confirm course-specific eligibility with the institution",
+        "entranceExam": "Merit / university admission process",
+        "notes": ""
+      }
+    ],
+    "feeBasis": "Total course package",
+    "feeUpdatedAt": "2026-08-02",
+    "feeSource": "AIMS Global partner fee sheet supplied 2 Aug 2026",
+    "feeNotes": [
+      "Fees are indicative and can change by intake, scholarship, admission route and room category.",
+      "Confirm the complete written fee schedule, inclusions and refund terms before making payment."
+    ]
+  }
+]

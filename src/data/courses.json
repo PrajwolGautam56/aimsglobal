@@ -1,0 +1,512 @@
+[
+  {
+    "name": "MBA",
+    "slug": "mba",
+    "icon": "📊",
+    "description": "Study MBA at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "alliance-university-bangalore",
+      "akash-group-institutions-bangalore",
+      "bms-institute-technology-management-bangalore",
+      "bms-college-engineering-bangalore",
+      "chennai-institute-technology-chennai",
+      "cmr-institute-technology-cmrit-bangalore",
+      "cmru-cmr-university-bangalore",
+      "east-west-group-institutions-bangalore",
+      "mahendra-engineering-college-salem",
+      "parul-university-vadodara-gujarat",
+      "rathinam-technical-campus-coimbatore",
+      "sb-group-institutions-bangalore",
+      "shri-maruthi-group-institutions-karnataka",
+      "vel-tech-university-chennai",
+      "srm-university-amaravati-andhra-pradesh",
+      "srm-institute-science-technology-chennai",
+      "srm-institute-science-technology-trichy",
+      "srm-trp-engineering-college-trichy",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "sharda-university-greater-noida-delhi",
+      "amity-university-india",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "east-point-group-institutions-bangalore",
+      "nagarjuna-college-engineering-bangalore",
+      "dhanvantari-group-institutions-bangalore",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "B.Tech",
+    "slug": "b-tech",
+    "icon": "⚙️",
+    "description": "Study B.Tech at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "alliance-university-bangalore",
+      "akash-group-institutions-bangalore",
+      "bms-institute-technology-management-bangalore",
+      "cmru-cmr-university-bangalore",
+      "east-west-group-institutions-bangalore",
+      "parul-university-vadodara-gujarat",
+      "sb-group-institutions-bangalore",
+      "shri-maruthi-group-institutions-karnataka",
+      "vel-tech-university-chennai",
+      "srm-university-amaravati-andhra-pradesh",
+      "srm-institute-science-technology-chennai",
+      "srm-institute-science-technology-trichy",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "sharda-university-greater-noida-delhi",
+      "amity-university-india",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "east-point-group-institutions-bangalore",
+      "dhanvantari-group-institutions-bangalore",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "BBA",
+    "slug": "bba",
+    "icon": "💼",
+    "description": "Study BBA at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "alliance-university-bangalore",
+      "akash-group-institutions-bangalore",
+      "cmru-cmr-university-bangalore",
+      "east-west-group-institutions-bangalore",
+      "parul-university-vadodara-gujarat",
+      "rathinam-technical-campus-coimbatore",
+      "sb-group-institutions-bangalore",
+      "shri-maruthi-group-institutions-karnataka",
+      "srm-university-amaravati-andhra-pradesh",
+      "srm-institute-science-technology-chennai",
+      "sharda-university-greater-noida-delhi",
+      "amity-university-india",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "east-point-group-institutions-bangalore",
+      "dhanvantari-group-institutions-bangalore",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "M.Tech",
+    "slug": "m-tech",
+    "icon": "🔧",
+    "description": "Study M.Tech at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "akash-group-institutions-bangalore",
+      "bms-institute-technology-management-bangalore",
+      "bms-college-engineering-bangalore",
+      "cambridge-institute-technology-bangalore",
+      "chennai-institute-technology-chennai",
+      "cmr-institute-technology-cmrit-bangalore",
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "vel-tech-university-chennai",
+      "srm-institute-science-technology-trichy",
+      "srm-trp-engineering-college-trichy",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "ECE",
+    "slug": "ece",
+    "icon": "🎓",
+    "description": "Study ECE at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "bms-institute-technology-management-bangalore",
+      "cambridge-institute-technology-bangalore",
+      "chennai-institute-technology-chennai",
+      "cmr-institute-technology-cmrit-bangalore",
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "rathinam-technical-campus-coimbatore",
+      "vel-tech-university-chennai",
+      "srm-institute-science-technology-trichy",
+      "srm-trp-engineering-college-trichy",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "B.E./B.Tech",
+    "slug": "b-e-b-tech",
+    "icon": "🎓",
+    "description": "Study B.E./B.Tech at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "bms-college-engineering-bangalore",
+      "chennai-institute-technology-chennai",
+      "cmr-institute-technology-cmrit-bangalore",
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "rathinam-technical-campus-coimbatore",
+      "srm-trp-engineering-college-trichy",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "BCA",
+    "slug": "bca",
+    "icon": "💻",
+    "description": "Study BCA at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "akash-group-institutions-bangalore",
+      "cmru-cmr-university-bangalore",
+      "east-west-group-institutions-bangalore",
+      "shri-maruthi-group-institutions-karnataka",
+      "srm-university-amaravati-andhra-pradesh",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "east-point-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "MBBS",
+    "slug": "mbbs",
+    "icon": "🏥",
+    "description": "Study MBBS at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "parul-university-vadodara-gujarat",
+      "siddaganga-medical-college-tumkur",
+      "srm-institute-science-technology-chennai",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "sharda-university-greater-noida-delhi",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "BDS",
+    "slug": "bds",
+    "icon": "🦷",
+    "description": "Study BDS at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "parul-university-vadodara-gujarat",
+      "siddaganga-medical-college-tumkur",
+      "srm-institute-science-technology-chennai",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "sharda-university-greater-noida-delhi",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "Civil)",
+    "slug": "civil",
+    "icon": "🎓",
+    "description": "Study Civil) at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "bms-institute-technology-management-bangalore",
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "rathinam-technical-campus-coimbatore",
+      "srm-institute-science-technology-trichy",
+      "srm-trp-engineering-college-trichy"
+    ]
+  },
+  {
+    "name": "B.Sc",
+    "slug": "b-sc",
+    "icon": "🎓",
+    "description": "Study B.Sc at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cmru-cmr-university-bangalore",
+      "rathinam-technical-campus-coimbatore",
+      "srm-university-amaravati-andhra-pradesh",
+      "srm-institute-science-technology-chennai",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "east-point-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "Mech",
+    "slug": "mech",
+    "icon": "🎓",
+    "description": "Study Mech at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "rathinam-technical-campus-coimbatore",
+      "vel-tech-university-chennai",
+      "srm-institute-science-technology-trichy",
+      "srm-trp-engineering-college-trichy"
+    ]
+  },
+  {
+    "name": "Law",
+    "slug": "law",
+    "icon": "⚖️",
+    "description": "Study Law at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "parul-university-vadodara-gujarat",
+      "srm-university-amaravati-andhra-pradesh",
+      "srm-institute-science-technology-chennai",
+      "sharda-university-greater-noida-delhi",
+      "amity-university-india",
+      "maharishi-markandeshwar-mm-university-ambala"
+    ]
+  },
+  {
+    "name": "B.Com",
+    "slug": "b-com",
+    "icon": "🎓",
+    "description": "Study B.Com at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "alliance-university-bangalore",
+      "cmru-cmr-university-bangalore",
+      "east-west-group-institutions-bangalore",
+      "sb-group-institutions-bangalore",
+      "east-point-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "EEE",
+    "slug": "eee",
+    "icon": "🎓",
+    "description": "Study EEE at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "bms-institute-technology-management-bangalore",
+      "chennai-institute-technology-chennai",
+      "easwari-engineering-college-chennai",
+      "mahendra-engineering-college-salem",
+      "srm-trp-engineering-college-trichy"
+    ]
+  },
+  {
+    "name": "Design",
+    "slug": "design",
+    "icon": "🎨",
+    "description": "Study Design at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "parul-university-vadodara-gujarat",
+      "srm-institute-science-technology-chennai",
+      "sharda-university-greater-noida-delhi",
+      "amity-university-india"
+    ]
+  },
+  {
+    "name": "Nursing",
+    "slug": "nursing",
+    "icon": "🎓",
+    "description": "Study Nursing at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "siddaganga-medical-college-tumkur",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "maharishi-markandeshwar-mm-university-ambala",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "ME",
+    "slug": "me",
+    "icon": "🎓",
+    "description": "Study ME at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "bms-institute-technology-management-bangalore",
+      "cambridge-institute-technology-bangalore",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "Civil",
+    "slug": "civil",
+    "icon": "🎓",
+    "description": "Study Civil at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cambridge-institute-technology-bangalore",
+      "vel-tech-university-chennai",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "Pharm.D",
+    "slug": "pharm-d",
+    "icon": "🎓",
+    "description": "Study Pharm.D at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "parul-university-vadodara-gujarat",
+      "amrita-vishwa-vidyapeetham-coimbatore",
+      "maharishi-markandeshwar-mm-university-ambala"
+    ]
+  },
+  {
+    "name": "B.Pharm",
+    "slug": "b-pharm",
+    "icon": "💊",
+    "description": "Study B.Pharm at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "siddaganga-medical-college-tumkur",
+      "dhanvantari-group-institutions-bangalore",
+      "bgs-sjb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "ISE)",
+    "slug": "ise",
+    "icon": "🎓",
+    "description": "Study ISE) at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cambridge-institute-technology-bangalore",
+      "nagarjuna-college-engineering-bangalore"
+    ]
+  },
+  {
+    "name": "IT",
+    "slug": "it",
+    "icon": "🎓",
+    "description": "Study IT at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "chennai-institute-technology-chennai",
+      "easwari-engineering-college-chennai"
+    ]
+  },
+  {
+    "name": "BA",
+    "slug": "ba",
+    "icon": "🎓",
+    "description": "Study BA at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cmru-cmr-university-bangalore",
+      "srm-university-amaravati-andhra-pradesh"
+    ]
+  },
+  {
+    "name": "MCA",
+    "slug": "mca",
+    "icon": "🎓",
+    "description": "Study MCA at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "east-west-group-institutions-bangalore",
+      "east-point-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "BA LLB",
+    "slug": "ba-llb",
+    "icon": "🎓",
+    "description": "Study BA LLB at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "alliance-university-bangalore"
+    ]
+  },
+  {
+    "name": "B.E.",
+    "slug": "b-e",
+    "icon": "🎓",
+    "description": "Study B.E. at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cambridge-institute-technology-bangalore"
+    ]
+  },
+  {
+    "name": "Mech)",
+    "slug": "mech",
+    "icon": "🎓",
+    "description": "Study Mech) at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "chennai-institute-technology-chennai"
+    ]
+  },
+  {
+    "name": "ISE",
+    "slug": "ise",
+    "icon": "🎓",
+    "description": "Study ISE at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cmr-institute-technology-cmrit-bangalore"
+    ]
+  },
+  {
+    "name": "CSE-AI/ML)",
+    "slug": "cse-ai-ml",
+    "icon": "🎓",
+    "description": "Study CSE-AI/ML) at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "cmr-institute-technology-cmrit-bangalore"
+    ]
+  },
+  {
+    "name": "Diploma",
+    "slug": "diploma",
+    "icon": "🎓",
+    "description": "Study Diploma at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "sb-group-institutions-bangalore"
+    ]
+  },
+  {
+    "name": "MD",
+    "slug": "md",
+    "icon": "🎓",
+    "description": "Study MD at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "siddaganga-medical-college-tumkur"
+    ]
+  },
+  {
+    "name": "MS",
+    "slug": "ms",
+    "icon": "🎓",
+    "description": "Study MS at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "siddaganga-medical-college-tumkur"
+    ]
+  },
+  {
+    "name": "Polytechnic",
+    "slug": "polytechnic",
+    "icon": "🎓",
+    "description": "Study Polytechnic at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "shri-maruthi-group-institutions-karnataka"
+    ]
+  },
+  {
+    "name": "AI/ML)",
+    "slug": "ai-ml",
+    "icon": "🎓",
+    "description": "Study AI/ML) at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "vel-tech-university-chennai"
+    ]
+  },
+  {
+    "name": "Ph.D",
+    "slug": "ph-d",
+    "icon": "🎓",
+    "description": "Study Ph.D at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "vel-tech-university-chennai"
+    ]
+  },
+  {
+    "name": "Architecture",
+    "slug": "architecture",
+    "icon": "🎓",
+    "description": "Study Architecture at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "sharda-university-greater-noida-delhi"
+    ]
+  },
+  {
+    "name": "Journalism",
+    "slug": "journalism",
+    "icon": "🎓",
+    "description": "Study Journalism at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "amity-university-india"
+    ]
+  },
+  {
+    "name": "Biotechnology",
+    "slug": "biotechnology",
+    "icon": "🎓",
+    "description": "Study Biotechnology at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "amity-university-india"
+    ]
+  },
+  {
+    "name": "D.Pharm",
+    "slug": "d-pharm",
+    "icon": "🎓",
+    "description": "Study D.Pharm at top Indian universities with guidance from AIMS Global, Butwal.",
+    "universities": [
+      "dhanvantari-group-institutions-bangalore"
+    ]
+  }
+]
