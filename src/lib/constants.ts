@@ -1,4 +1,5 @@
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.aimsglobal.com.np";export const SITE_NAME = "AIMS Global";
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.aimsglobal.com.np";
+export const SITE_NAME = "AIMS Global";
 export const WHATSAPP_NUMBER = "9779743679606";
 export const WHATSAPP_MESSAGE =
   "Hello AIMS Global! I want to inquire about college admissions in India.";
