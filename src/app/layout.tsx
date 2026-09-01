@@ -57,6 +57,7 @@ export async function generateMetadata(): Promise<Metadata> {
       images: [{ url: `${SITE_URL}/brand/homepage-hero-education-consultancy-butwal.webp`, alt: "AIMS Global education consultancy in Butwal" }],
     },
     twitter: { card: "summary_large_image" },
+    verification: { google: "lHUCB0vb91Vg5bK8KUEla41p9pfkKpqaMcd8yqgcKw8" },
   };
 }
 
