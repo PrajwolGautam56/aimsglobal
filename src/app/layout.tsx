@@ -81,7 +81,6 @@ const organizationSchema = {
     addressCountry: "NP",
   },
   areaServed: "Nepal",
-  serviceType: "Education Consultancy",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+977-974-3679606",
