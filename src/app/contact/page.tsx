@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { BookOpenCheck, CheckCircle2, Clock, FileCheck2, Mail, MapPin, Phone, WalletCards } from "lucide-react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { ContactForm } from "@/components/ContactForm";
+import { ContactFormWithParams } from "@/components/ContactFormWithParams";
 import { FaqSection, type FaqItem } from "@/components/FaqSection";
 import { SchemaOrg } from "@/components/SchemaOrg";
 import { Button } from "@/components/ui/button";
@@ -13,15 +14,18 @@ export const metadata: Metadata = {
   description: "Contact AIMS Global at Finance Chowk, Butwal for India admission counselling, course comparison, fees, scholarships and document guidance.",
   alternates: { canonical: `${SITE_URL}/contact` },
   openGraph: {
+    type: "website",
+    siteName: "AIMS Global",
     title: "Contact AIMS Global Education Consultancy Butwal",
     description: "Speak with AIMS Global about management, engineering, pharmacy, allied health, paramedical and nursing study options in India.",
     url: `${SITE_URL}/contact`,
+    images: [{ url: `${SITE_URL}/brand/homepage-hero-education-consultancy-butwal.webp`, alt: "AIMS Global education consultancy in Butwal" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: [`${SITE_URL}/brand/homepage-hero-education-consultancy-butwal.webp`],
   },
 };
-
-interface PageProps {
-  searchParams: Promise<{ university?: string; course?: string }>;
-}
 
 const contactFaqs: FaqItem[] = [
   { question: "Is the first counselling discussion free?", answer: "Yes. Students and parents can begin with a free discussion about course interests, academic background, preferred location and budget." },
@@ -31,8 +35,7 @@ const contactFaqs: FaqItem[] = [
   { question: "Will AIMS Global guarantee admission or a scholarship?", answer: "No responsible consultancy can guarantee an outcome controlled by a university. AIMS Global helps prepare and coordinate the application, while the institution makes the final admission and scholarship decision." },
 ];
 
-export default async function ContactPage({ searchParams }: PageProps) {
-  const params = await searchParams;
+export default function ContactPage() {
   const whatsappHref = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`;
 
   return (
@@ -72,7 +75,7 @@ export default async function ContactPage({ searchParams }: PageProps) {
           <div className="rounded-lg border border-border bg-white p-6 shadow-sm lg:p-8">
             <h2 className="text-2xl font-bold text-text-primary">Send an Admission Enquiry</h2>
             <p className="mt-2 text-sm leading-relaxed text-text-muted">Tell us your current qualification, course interest and key questions. A counsellor will review the details and contact you.</p>
-            <div className="mt-6"><ContactForm defaultUniversity={params.university} defaultCourse={params.course} /></div>
+            <div className="mt-6"><Suspense fallback={null}><ContactFormWithParams /></Suspense></div>
           </div>
         </div>
       </section>
