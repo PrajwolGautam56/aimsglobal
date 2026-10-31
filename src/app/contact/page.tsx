@@ -65,7 +65,7 @@ export default async function ContactPage({ searchParams }: PageProps) {
             <Button variant="accent" asChild><a href={whatsappHref} target="_blank" rel="noopener noreferrer">Chat on WhatsApp</a></Button>
 
             <div className="overflow-hidden rounded-lg border border-border">
-              <iframe title="AIMS Global Office Location" src="https://maps.google.com/maps?q=Finance+Chowk+Butwal+Nepal&output=embed" className="h-72 w-full" loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+              <iframe title="AIMS Global Office Location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1966676.3484115622!2d81.02627055624995!3d27.687893099999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39968746e5ce6fd7%3A0x13798443c6cd6840!2sAims%20Global%20Education!5e1!3m2!1sen!2snp!4v1788683863755!5m2!1sen!2snp" className="h-72 w-full" loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
             </div>
           </div>
 
