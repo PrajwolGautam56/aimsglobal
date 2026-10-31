@@ -1,0 +1,8 @@
+# AIMS Global
+> Education consultancy in Butwal, Nepal, helping students study abroad.
+
+## Pages
+- [Home](https://www.aimsglobal.com.np/): Overview of services
+- [About](https://www.aimsglobal.com.np/about): About AIMS Global
+- [Blog](https://www.aimsglobal.com.np/blog): Articles on studying abroad
+- [Contact](https://www.aimsglobal.com.np/contact): Contact details
