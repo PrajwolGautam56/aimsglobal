@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Suspense } from "react";
 import { CheckCircle2 } from "lucide-react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { FaqSection, type FaqItem } from "@/components/FaqSection";
 import { SchemaOrg } from "@/components/SchemaOrg";
 import { UniversitiesPageClient } from "@/components/UniversitiesPageClient";
+import { UniversitiesWithParams } from "@/components/UniversitiesWithParams";
 import { Button } from "@/components/ui/button";
 import { createFaqSchema } from "@/lib/course-guides";
 import { SITE_URL } from "@/lib/constants";
@@ -29,16 +31,7 @@ const universityFaqs: FaqItem[] = [
   { question: "Should I verify university recognition myself?", answer: "Yes. Students and parents should check current official sources such as the relevant university, UGC and applicable professional councils." },
 ];
 
-interface PageProps {
-  searchParams: Promise<{
-    search?: string;
-    state?: string;
-    courseType?: string;
-  }>;
-}
-
-export default async function UniversitiesPage({ searchParams }: PageProps) {
-  const params = await searchParams;
+export default async function UniversitiesPage() {
   const universities = await getUniversities();
 
   return (
@@ -54,12 +47,18 @@ export default async function UniversitiesPage({ searchParams }: PageProps) {
           </p>
         </div>
       </section>
-      <UniversitiesPageClient
-        universities={universities}
-        initialSearch={params.search || ""}
-        initialState={params.state || "All"}
-        initialCourseType={params.courseType || "All"}
-      />
+      <Suspense
+        fallback={
+          <UniversitiesPageClient
+            universities={universities}
+            initialSearch=""
+            initialState="All"
+            initialCourseType="All"
+          />
+        }
+      >
+        <UniversitiesWithParams universities={universities} />
+      </Suspense>
 
       <section className="border-t border-border bg-bg-light py-16">
         <div className="mx-auto grid max-w-7xl gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
