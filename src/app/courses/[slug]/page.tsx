@@ -28,7 +28,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const guide = getCourseGuide(course);
   const title = `${course.name} in India for Nepali Students`;
-  const description = `${guide.overview.slice(0, 145).trim()} Learn eligibility, subjects, fees and admission steps.`;
+  const intro = `${course.name} in India for Nepali students: eligibility, subjects, fees and admission steps.`;
+  const cta = " Free counselling from AIMS Global, Butwal.";
+  const description = (intro + cta).length <= 155 ? intro + cta : intro;
+  const shareImage = `${SITE_URL}/brand/homepage-hero-education-consultancy-butwal.webp`;
 
   return {
     title,
@@ -40,6 +43,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description,
       url: `${SITE_URL}/courses/${slug}`,
       type: "website",
+      siteName: SITE_NAME,
+      images: [{ url: shareImage, alt: `${course.name} in India for Nepali students` }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [shareImage],
     },
   };
 }
