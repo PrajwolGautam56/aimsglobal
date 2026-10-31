@@ -26,12 +26,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const uni = await getUniversityBySlug(slug);
   if (!uni) return { title: "University Not Found" };
 
+  const name = uni.name.trim();
+  const brand = " | AIMS Global";
+  const candidates = [
+    `${name} Admission 2026 - Courses & Fees${brand}`,
+    `${name} Admission 2026${brand}`,
+    `${name}${brand}`,
+  ];
+  let pageTitle = candidates.find((t) => t.length <= 70) ?? name;
+  if (pageTitle.length > 70) pageTitle = pageTitle.slice(0, 67).replace(/\s+\S*$/, "") + "...";
+
   return {
-    title: uni.metaTitle,
+    title: { absolute: pageTitle },
     description: uni.metaDescription,
     keywords: `${uni.name}, ${uni.city}, admission Nepal, AIMS Global`,
     openGraph: {
-      title: uni.metaTitle,
+      title: pageTitle,
       description: uni.metaDescription,
       url: `${SITE_URL}/universities/${slug}`,
       type: "website",
